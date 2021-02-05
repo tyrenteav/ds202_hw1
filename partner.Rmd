@@ -1,0 +1,9 @@
+Partner's Name - Tyren Teav
+
+Partner's username - tyrenteav
+
+The owner's most recent commit in the repository was the hw1.Rmd file for the first homework assignment.
+The commit ID is - a1a7b11
+
+The hw1.Rmd was knit without any errors from my end
+
